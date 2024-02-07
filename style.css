@@ -43,6 +43,8 @@ h3 {
 header {
   text-align: center;
   display:flex;
+  justify-content: center;
+  align-items: center;
   }
 
 /* Containers */
@@ -96,7 +98,7 @@ img {
     margin-right:50px;
     }
 .contact{
-  text-align:center;
+  text-align:left;
   
 }
 /* Footer */
